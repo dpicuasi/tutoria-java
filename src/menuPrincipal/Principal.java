@@ -2,11 +2,11 @@ package menuPrincipal;
 
 import java.util.Scanner;
 
-import practica1.IfElse.Ejercicio1;
-import practica1.IfElse.Ejercicio2;
-import practica1.IfElse.Ejercicio3;
-import practica1.IfElse.Ejercicio4;
-import practica1.IfElse.Ejercicio5;
+import practica1.ifElse.Ejercicio1;
+import practica1.ifElse.Ejercicio2;
+import practica1.ifElse.Ejercicio3;
+import practica1.ifElse.Ejercicio4;
+import practica1.ifElse.Ejercicio5;
 
 /**
  *
@@ -67,23 +67,23 @@ public class Principal {
                                             tercer = sc.next();
                                             switch(tercer){
                                                 case "1.1.1":
-                                                    practica1.IfElse.Ejercicio1 ifelse1=new Ejercicio1();
+                                                    practica1.ifElse.Ejercicio1 ifelse1=new Ejercicio1();
                                                     ifelse1.main();
                                                     break;
                                                 case "1.1.2":
-                                                    practica1.IfElse.Ejercicio2 ifelse2=new Ejercicio2();
+                                                    practica1.ifElse.Ejercicio2 ifelse2=new Ejercicio2();
                                                     ifelse2.main();
                                                     break;
                                                 case "1.1.3":
-                                                    practica1.IfElse.Ejercicio3 ifelse3=new Ejercicio3();
+                                                    practica1.ifElse.Ejercicio3 ifelse3=new Ejercicio3();
                                                     ifelse3.main();
                                                     break;
                                                 case "1.1.4":
-                                                    practica1.IfElse.Ejercicio4 ifelse4=new Ejercicio4();
+                                                    practica1.ifElse.Ejercicio4 ifelse4=new Ejercicio4();
                                                     ifelse4.main();
                                                     break;
                                                 case "1.1.5":
-                                                    practica1.IfElse.Ejercicio5 ifelse5=new Ejercicio5();
+                                                    practica1.ifElse.Ejercicio5 ifelse5=new Ejercicio5();
                                                     ifelse5.main();
                                                     break;
                                                 default:
