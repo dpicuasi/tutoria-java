@@ -1,5 +1,5 @@
 
-package practica1.IfElse;
+package practica1.ifElse;
 
 import java.util.Scanner;
 

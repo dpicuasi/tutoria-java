@@ -1,5 +1,5 @@
 
-package practica1.IfElse;
+package practica1.ifElse;
 
 import java.util.Scanner;
 
@@ -10,7 +10,8 @@ import java.util.Scanner;
 public class Ejercicio1 {
     
      public void main() {
-         int num1, num2;
+         int num1; 
+         int num2;
          Scanner sc = new Scanner(System.in);
          System.out.println("Ingrese el primer numero");
          num1=sc.nextInt();
